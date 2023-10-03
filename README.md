@@ -303,7 +303,7 @@ Los unicos que pueden eliminar una respuesta son el creador y el administrador d
 
 4. Descargar [MySQL Workbench.](https://dev.mysql.com/downloads/workbench/)
 
-5. Clonar el repositoria mediante el siguiente enlace: https://github.com/juanturriago7/challenge-one-foro-alura.git
+5. Clonar el repositoria mediante el siguiente enlace: https://github.com/sdsanchez1/challenge-one-foro-alura.git
 
 6. Abrir MySQL Workbench y crear base de datos con el siguiente nombre:
 
